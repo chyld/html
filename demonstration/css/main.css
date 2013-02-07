@@ -1,0 +1,23 @@
+#b
+{
+  position: relative;
+  top: 10px;
+  left: 250px;
+  border: 1px solid red;
+}
+
+#b2
+{
+  position: relative;
+  top: 5px;
+  left: 5px;
+  border: 1px solid yellow;
+}
+
+#b3
+{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  border: 1px solid blue;
+}
